@@ -1,0 +1,4 @@
+Id,Name,BossId,SpecialityId,IsBoss
+1,john,1,1,1
+2,Mike,1,1,0
+3,Ken,1,2,0
